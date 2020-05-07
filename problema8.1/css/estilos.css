@@ -1,0 +1,12 @@
+.titulo{
+    font-family:Candyshop;
+    text-align: center;
+    background-color: hsl(293, 92%, 48%);
+    color:darkslategrey;
+    margin-top: 3px;
+    border-radius: 8px;
+    padding: 3px;
+}
+.container{
+    font-family:Forte; 
+}
