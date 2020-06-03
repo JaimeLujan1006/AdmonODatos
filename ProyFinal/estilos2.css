@@ -1,0 +1,27 @@
+/* .ct-series-a .ct-bar {
+    /* Color de las barras de la primer serie*/
+    /* stroke: hsl(103, 98%, 49%);
+    /* El ancho de las barras */
+    /* stroke-width: 130px;
+    
+  }*/
+  .temp-box{
+    width: 40px;
+    
+  }
+  .temp{
+    display: inline-flex;
+  }
+  .max{
+  background-color: #fdb100;
+  
+  }
+  .subt{
+    display: block;
+    color: hsl(241, 100%, 50%);
+    
+    font-size: large;
+  }
+  .centro{
+    text-align: center;
+  }
